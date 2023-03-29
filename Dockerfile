@@ -8,8 +8,8 @@ ENV PYTHONUNBUFFERED True
 EXPOSE 8080
 
 # Copy local code to the container image.
-#ENV APP_HOME /app
-#WORKDIR $APP_HOME
+ENV APP_HOME /ntd_tool
+WORKDIR $APP_HOME
 COPY . ./
 
 # Install production dependencies.
