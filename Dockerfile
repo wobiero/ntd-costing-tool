@@ -1,5 +1,5 @@
 # Use the official lightweight Python image.
-# https://hub.docker.com/_/python
+# https://github.com/wobiero/ntd-costing-tool/tree/main
 FROM python:3
 
 # Allow statements and log messages to immediately appear in the Knative logs
