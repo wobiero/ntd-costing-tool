@@ -1,0 +1,20 @@
+
+credentials:
+  usernames:
+    wobiero:
+      email: obierochieng@gmail.com
+      name: Walter Obiero
+      password: '$2b$12$YkMZW4k.nPzuUM3U09uzoeMBfDMPptiT6cFw9.Il55R.GdNZsLR/a' # To be replaced with hashed password
+    ocu9:
+      email: ocu9@cdc.gov
+      name: Walter Obiero
+      password: '$2b$12$uVuWpbaWdZEwpjfgbQ81leHkk9a7pXNfFiztsxGRgKvUyRPmImeZO' # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - ocu9@cdc.gov
+# wobiero password 123
+# ocu9 password 123
