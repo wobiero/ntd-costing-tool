@@ -20,4 +20,4 @@
  streamlit-pandas-profiling==0.1.2
  typing_extensions==4.0.1
  yaml==6.0
- gunicorn
+ gunicorn==20.1.0
